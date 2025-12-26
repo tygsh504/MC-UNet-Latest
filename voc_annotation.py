@@ -17,7 +17,7 @@ train_percent       = 0.9
 #   指向VOC数据集所在的文件夹
 #   默认指向根目录下的VOC数据集
 #-------------------------------------------------------#
-VOCdevkit_path      = r"C:\Users\tygsh\OneDrive\Desktop\KIE4002_FYP\Code\MC-UNet-main\datasets"
+VOCdevkit_path      = r"C:\Users\tygsh\OneDrive\Desktop\KIE4002_FYP\Code\MC-UNet-Latest\datasets"
 
 if __name__ == "__main__":
     random.seed(0)
