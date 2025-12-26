@@ -1,0 +1,5 @@
+# Ignore the dataset directory and virtual environment
+venv/
+datasets/
+logs/
+.temp_miou_out/
